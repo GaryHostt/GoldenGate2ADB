@@ -25,13 +25,14 @@ https://www.youtube.com/watch?v=uQ8eKJmPfwY&list=PL3Hc8S1SG2ATGktXhC3WA5YYVI_wBc
 [How to use vi on a terminal session] (https://staff.washington.edu/rells/R110/)
 
 ## Outline:
-Lab 100: Create Goldengate usernames in source and target DBs
-Lab 200: Setup connections to Source DB and target DB
-Lab 300: Extract and Pump processes configuration
-Lab 400: Replicate process configuration
-Lab 500: GoldenGate in-action
-Lab 600: Configuration for capturing DDL changes (optional)
-Lab 700: Configuration for databases with multi-tenant architecture (optional)
+
+### Lab 100: Create Goldengate usernames in source and target DBs (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab100.md)
+### Lab 200: Setup connections to Source DB and target DB (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab200.md)
+### Lab 300: Extract and Pump processes configuration (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab300.md)
+### Lab 400: Replicate process configuration (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab400.md)
+### Lab 500: GoldenGate in-action (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab500.md)
+### Lab 600: Configuration for capturing DDL changes (optional)
+### Lab 700: Configuration for databases with multi-tenant architecture (optional)
 
 # Pre-requisites
 
