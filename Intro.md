@@ -15,14 +15,14 @@ By doing so, you will gain breadth in creating multiple database environments an
 To log issues, click here to go to the github oracle repository issue submission form.
 
 ## Useful links:
-[Download SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
-[GoldenGate Marketplace image](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
-[Information on the GoldenGate MarketPlace Promotion](https://blogs.oracle.com/dataintegration/free-goldengate-software-on-oci-marketplace)
-[GoldenGate 19.1 documentation](https://docs.oracle.com/en/middleware/goldengate/core/19.1/index.html)
-[Fundamentals youtube course](
+### [Download SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
+### [GoldenGate Marketplace image](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
+### [Information on the GoldenGate MarketPlace Promotion](https://blogs.oracle.com/dataintegration/free-goldengate-software-on-oci-marketplace)
+### [GoldenGate 19.1 documentation](https://docs.oracle.com/en/middleware/goldengate/core/19.1/index.html)
+### [Fundamentals youtube course](
 https://www.youtube.com/watch?v=uQ8eKJmPfwY&list=PL3Hc8S1SG2ATGktXhC3WA5YYVI_wBcFYR)
-[How to create a ssh key] (https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
-[How to use vi on a terminal session] (https://staff.washington.edu/rells/R110/)
+### [How to create a ssh key] (https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
+### [How to use vi on a terminal session] (https://staff.washington.edu/rells/R110/)
 
 ## Outline:
 
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=uQ8eKJmPfwY&list=PL3Hc8S1SG2ATGktXhC3WA5YYVI_wBc
 
 # Pre-requisites
 
-## 1.	[Create a GoldenGate classic instance from the marketplace] (https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
+## 1.	[Create a GoldenGate classic instance from the marketplace](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
 
 ![](screenshots/1.png)
 
