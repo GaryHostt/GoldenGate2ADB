@@ -19,18 +19,17 @@ To log issues, click here to go to the github oracle repository issue submission
 ### [GoldenGate Marketplace image](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
 ### [Information on the GoldenGate MarketPlace Promotion](https://blogs.oracle.com/dataintegration/free-goldengate-software-on-oci-marketplace)
 ### [GoldenGate 19.1 documentation](https://docs.oracle.com/en/middleware/goldengate/core/19.1/index.html)
-### [Fundamentals youtube course](
-https://www.youtube.com/watch?v=uQ8eKJmPfwY&list=PL3Hc8S1SG2ATGktXhC3WA5YYVI_wBcFYR)
-### [How to create a ssh key] (https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
-### [How to use vi on a terminal session] (https://staff.washington.edu/rells/R110/)
+### [Fundamentals youtube course](https://www.youtube.com/watch?v=uQ8eKJmPfwY&list=PL3Hc8S1SG2ATGktXhC3WA5YYVI_wBcFYR)
+### [How to create a ssh key](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
+### [How to use vi on a terminal session](https://staff.washington.edu/rells/R110/)
 
 ## Outline:
 
-### Lab 100: Create Goldengate usernames in source and target DBs (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab100.md)
-### Lab 200: Setup connections to Source DB and target DB (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab200.md)
-### Lab 300: Extract and Pump processes configuration (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab300.md)
-### Lab 400: Replicate process configuration (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab400.md)
-### Lab 500: GoldenGate in-action (https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab500.md)
+### Lab 100: Create Goldengate usernames in source and target DBs(https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab100.md)
+### Lab 200: Setup connections to Source DB and target DB(https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab200.md)
+### Lab 300: Extract and Pump processes configuration(https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab300.md)
+### Lab 400: Replicate process configuration(https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab400.md)
+### Lab 500: GoldenGate in-action(https://github.com/GaryHostt/GoldenGate2ADB/blob/master/Lab500.md)
 ### Lab 600: Configuration for capturing DDL changes (optional)
 ### Lab 700: Configuration for databases with multi-tenant architecture (optional)
 
