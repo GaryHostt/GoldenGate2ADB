@@ -55,7 +55,7 @@ After reviewing, allow some time for the instance to provision.
 
 After provisioning the database, you will have to install SQL*Plus on that instance. 
 
-[About DBaaS on OCI] (https://docs.cloud.oracle.com/en-us/iaas/Content/Database/Concepts/overview.htm)
+[About DBaaS on OCI](https://docs.cloud.oracle.com/en-us/iaas/Content/Database/Concepts/overview.htm)
 [How to provision a database instance] (https://docs.cloud.oracle.com/en-us/iaas/Content/Database/Tasks/creatingDBsystem.htm)
 
 Allow some time for your 11G instance to provision.
