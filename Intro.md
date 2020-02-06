@@ -14,7 +14,9 @@ By doing so, you will gain breadth in creating multiple database environments an
 
 To log issues, click here to go to the github oracle repository issue submission form.
 If you have any questions, please contact the authors&instrcutors of this workshop:
+
 Ji Zhang (ji.j.zhang@oracle.com)
+
 Alex MacDonald(alex.macdonald@oracle.com)
 
 ## Useful links:
