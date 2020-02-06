@@ -13,6 +13,9 @@ As Tim, you will spin up a new Oracle Goldengate Image from the Oracle Marketpla
 By doing so, you will gain breadth in creating multiple database environments and functionality. And, will learn to use a comprehensive software package for real-time data integration and replication in heterogeneous IT environments with simplified configuration and management. 
 
 To log issues, click here to go to the github oracle repository issue submission form.
+If you have any questions, please contact the authors&instrcutors of this workshop:
+Ji Zhang (ji.j.zhang@oracle.com)
+Alex MacDonald(alex.macdonald@oracle.com)
 
 ## Useful links:
 ### [Download SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
