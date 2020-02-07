@@ -35,9 +35,9 @@ Alex MacDonald(alex.macdonald@oracle.com)
 ### [Lab 300: Extract and Pump processes configuration](https://github.com/zzhangjii/GoldenGate2ADB/blob/master/Lab300.md)
 ### [Lab 400: Replicate process configuration](https://github.com/zzhangjii/GoldenGate2ADB/blob/master/Lab400.md)
 ### [Lab 500: GoldenGate in-action](https://github.com/zzhangjii/GoldenGate2ADB/blob/master/Lab500.md)
-### Lab 600: Configuration for capturing DDL changes (optional)
-### Lab 700: Goldengate performance tuning (optional)
-### Lab 800: Configuration for databases with multi-tenant architecture (optional)
+### Lab 600: Configuration for capturing DDL changes (optional, coming soon)
+### Lab 700: Goldengate performance tuning (optional, coming soon)
+### Lab 800: Configuration for databases with multi-tenant architecture (optional, coming soon)
 
 # Pre-requisites
 
