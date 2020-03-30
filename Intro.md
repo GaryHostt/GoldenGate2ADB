@@ -14,6 +14,11 @@ By doing so, you will gain breadth in creating multiple database environments an
 
 To log issues, click here to go to the github oracle repository issue submission form.
 
+Use this command to create a ssh key:
+```
+ssh-keygen -t rsa -b 2048
+```
+
 ## Useful links:
 ### [Download SQL Developer](https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
 ### [GoldenGate Marketplace image](https://cloudmarketplace.oracle.com/marketplace/en_US/listing/58489224)
